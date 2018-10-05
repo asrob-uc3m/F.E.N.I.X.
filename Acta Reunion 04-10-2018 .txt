@@ -1,0 +1,44 @@
+- Designar responsable:	
+			VOTOS
+	Jorge Frutos	9
+			
+- Definir la rama activa (Descripcion):
+					VOTOS
+	UAV's/Drones de carreras	0	
+	FENIX				7
+	EVIL-FENIX			0
+	FPV-Racing			2
+
+Grupo de montaje, configuracion y vuelo de drones. Carreras.
+
+- Designar reuniones:
+
+	Votar cada semana
+	Reuniones Esporadicas de vuelo
+
+- Talleres:
+
+	-Talleres de papa noel
+	-Construccion de circuito de carreras
+	-Reparacion de drones
+
+-Crear afiliate links en Bangood
+
+-Tareas:
+	Crear Team Git
+	Añadir integrantes
+	Traspasar si hay algo importante del otro repo
+	Crear repo de Git
+	Añadir talleres
+	Actualizar Web
+
+ASISTENTES:
+Jorge Ramos
+Ivan Partida
+Jeremy
+Ignacio Ralero
+Adrian Aguado
+Diego
+Marcos
+Jorge Muñoz
+Alejandro
