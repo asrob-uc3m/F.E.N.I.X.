@@ -1,3 +1,3 @@
 ## Configurations
 
-En eta carpeta se almacenaran los distintos archivos de configuracion de Drones.
+En esta carpeta se almacenaran los distintos archivos de configuracion de Drones.
