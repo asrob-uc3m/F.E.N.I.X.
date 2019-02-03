@@ -42,7 +42,7 @@ Definición de "bindear": lo mismo pero castellanizado
 - Comprar baterías extra (las de serie son muy maluchas): BetaFPV 300mAh 1S. Las Gaoneng 260mAh 1S son bastante buenas pero como estos motores de 19.000KV son bastante tragones, mejor las BetaFPV de 300mAh.
 
 
-### Guía en inglés muy buena!
+### Guía de mejoras en inglés muy buena!
 https://www.t0t0.fr/2018/10/08/ur65-uk65-us65-flight-improvement/
 
 
