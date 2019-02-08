@@ -1,0 +1,177 @@
+
+
+# # diff
+
+# # Betaflight / CRAZYBEEF3FR (CBFR) 3.4.0 Jun 23 2018 / 14:37:22 (c7135a3e2) MSP API: 1.39
+
+# board_name CRAZYBEEF3FR
+###ERROR### board_name cannot be changed. Current value: 'CRAZYBEEF3FS'
+
+# manufacturer_id 
+manufacturer_id 
+
+# name URUAV UR65
+name URUAV UR65
+
+# beacon RX_LOST
+Enabled RX_LOST
+
+# beacon RX_SET
+Enabled RX_SET
+
+# map TAER1234
+map TAER1234
+
+# aux 0 0 0 1700 2100 0
+aux 0 0 0 1700 2100 0 0
+
+# aux 1 1 1 900 1300 0
+aux 1 1 1 900 1300 0 0
+
+# aux 2 13 2 1700 2100 0
+aux 2 14 2 1700 2100 0 0
+
+# aux 3 28 1 1700 2100 0
+aux 3 23 1 1700 2100 0 0
+
+# aux 4 35 2 1300 1700 0
+aux 4 30 2 1300 1700 0 0
+
+# aux 5 36 3 1700 2100 0
+aux 5 31 3 1700 2100 0 0
+
+# set gyro_sync_denom = 2
+gyro_sync_denom set to 2
+# set gyro_lowpass_hz = 95
+gyro_lowpass_hz set to 95
+# set acc_calibration = 5,-53,-152
+acc_calibration set to 5,-53,-152
+# set fpv_mix_degrees = 25
+fpv_mix_degrees set to 25
+# set rx_spi_protocol = FRSKY_D
+rx_spi_protocol set to FRSKY_D
+# set dshot_idle_value = 900
+dshot_idle_value set to 900
+# set motor_pwm_protocol = DSHOT300
+motor_pwm_protocol set to DSHOT300
+# set bat_capacity = 260
+bat_capacity set to 260
+# set vbat_max_cell_voltage = 44
+vbat_max_cell_voltage set to 44
+# set vbat_min_cell_voltage = 28
+vbat_min_cell_voltage set to 28
+# set vbat_warning_cell_voltage = 30
+vbat_warning_cell_voltage set to 30
+# set vbat_scale = 112
+vbat_scale set to 112
+# set beeper_dshot_beacon_tone = 5
+beeper_dshot_beacon_tone set to 5
+# set small_angle = 180
+small_angle set to 180
+# set pid_process_denom = 1
+pid_process_denom set to 1
+# set osd_cap_alarm = 200
+osd_cap_alarm set to 200
+# set osd_vbat_pos = 2423
+osd_vbat_pos set to 2423
+# set osd_rssi_pos = 2074
+osd_rssi_pos set to 2074
+# set osd_tim_2_pos = 2455
+osd_tim_2_pos set to 2455
+# set osd_flymode_pos = 2064
+osd_flymode_pos set to 2064
+# set osd_current_pos = 2432
+osd_current_pos set to 2432
+# set osd_mah_drawn_pos = 2401
+osd_mah_drawn_pos set to 2401
+# set osd_craft_name_pos = 2049
+osd_craft_name_pos set to 2049
+# set osd_warnings_pos = 2409
+osd_warnings_pos set to 2409
+# set osd_disarmed_pos = 2283
+osd_disarmed_pos set to 2283
+# set osd_stat_rtc_date_time = ON
+osd_stat_rtc_date_time set to ON
+# set osd_stat_tim_1 = ON
+osd_stat_tim_1 set to ON
+# set osd_stat_max_spd = OFF
+osd_stat_max_spd set to OFF
+# set osd_stat_endbatt = ON
+osd_stat_endbatt set to ON
+# set osd_stat_bbox = OFF
+osd_stat_bbox set to OFF
+# set osd_stat_bb_no = OFF
+osd_stat_bb_no set to OFF
+# set vcd_video_system = NTSC
+vcd_video_system set to NTSC
+# set frsky_spi_tx_id = 6,208
+###ERROR### Invalid name
+
+# set frsky_spi_offset = -46
+###ERROR### Invalid name
+
+# profile 0
+profile 0
+
+# set dterm_lowpass_hz = 55
+dterm_lowpass_hz set to 55
+# set dterm_lowpass2_hz = 140
+dterm_lowpass2_hz set to 140
+# set dterm_notch_cutoff = 0
+dterm_notch_cutoff set to 0
+# set anti_gravity_gain = 4000
+anti_gravity_gain set to 4000
+# set setpoint_relax_ratio = 50
+###ERROR### Invalid name
+
+# set dterm_setpoint_weight = 120
+###ERROR### Invalid name
+
+# set p_pitch = 79
+p_pitch set to 79
+# set i_pitch = 55
+i_pitch set to 55
+# set d_pitch = 55
+d_pitch set to 55
+# set p_roll = 70
+p_roll set to 70
+# set i_roll = 54
+i_roll set to 54
+# set d_roll = 52
+d_roll set to 52
+# set p_yaw = 110
+p_yaw set to 110
+# set i_yaw = 125
+i_yaw set to 125
+# set d_yaw = 15
+d_yaw set to 15
+# set p_level = 80
+p_level set to 80
+# set i_level = 30
+i_level set to 30
+# set d_level = 25
+d_level set to 25
+# set level_limit = 60
+level_limit set to 60
+# rateprofile 0
+rateprofile 0
+
+# set thr_expo = 20
+thr_expo set to 20
+# set yaw_rc_rate = 110
+yaw_rc_rate set to 110
+# set roll_expo = 50
+roll_expo set to 50
+# set pitch_expo = 50
+pitch_expo set to 50
+# set yaw_expo = 50
+yaw_expo set to 50
+# set roll_srate = 81
+roll_srate set to 81
+# set pitch_srate = 81
+pitch_srate set to 81
+# set yaw_srate = 55
+yaw_srate set to 55
+# set tpa_rate = 15
+tpa_rate set to 15
+# # 
